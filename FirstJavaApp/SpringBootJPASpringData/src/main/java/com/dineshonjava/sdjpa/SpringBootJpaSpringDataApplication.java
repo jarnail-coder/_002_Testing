@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootJpaSpringDataApplication {
 //	Just For Testing Perpose
-//	Updated Again
+//	THis is Jarnail
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJpaSpringDataApplication.class, args);
 	}
